@@ -136,7 +136,7 @@ void handler_exit(int sig){
 
 int main(int argc, char* argv[]){
 	
-	printf("[PROJEKT - JACEK MARUSZAK - 80567]\n\n");
+	printf("[PROJEKT]\n\n");
 	
 	
 	sigset_t set1;
